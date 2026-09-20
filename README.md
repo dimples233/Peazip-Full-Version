@@ -242,4 +242,4 @@ This repository serves as the official landing page for PeaZip. The software is 
 **Get the most recent version of PeaZip today!**
 
 ---
-**Last updated:** 2026-09-20 21:56:28 UTC
+**Last updated:** 2026-09-20 23:42:01 UTC
